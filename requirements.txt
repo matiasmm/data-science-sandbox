@@ -1,0 +1,1 @@
+-e git+https://github.com/matiasmm/data-science-from-scratch.git#egg=data-science-from-scratch
