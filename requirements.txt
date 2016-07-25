@@ -1,4 +1,6 @@
 -e git+https://github.com/matiasmm/data-science-from-scratch.git#egg=data-science-from-scratch
+bs4==0.0.1
+gensim==0.13.1
 matplotlib==1.5.1
 numpy==1.11.1
 pyparsing==2.1.5
