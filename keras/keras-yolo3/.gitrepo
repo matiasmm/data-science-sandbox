@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/qqwweee/keras-yolo3.git
+	branch = master
+	commit = e6598d13c703029b2686bc2eb8d5c09badf42992
+	parent = c1eea660307eab8f1eb8ec2f004cd2746d6ea44d
+	cmdver = 0.3.1
